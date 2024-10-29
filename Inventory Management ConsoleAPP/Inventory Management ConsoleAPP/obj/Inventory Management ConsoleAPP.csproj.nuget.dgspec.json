@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ravee\\source\\repos\\Haseeb Project\\Inventory Management ConsoleAPP\\Inventory Management ConsoleAPP\\Inventory Management ConsoleAPP.csproj": {}
+    "C:\\Users\\ravee\\OneDrive - Abacus\\Desktop\\haseeb\\Repos\\Inventory-Management\\Inventory Management ConsoleAPP\\Inventory Management ConsoleAPP\\Inventory Management ConsoleAPP.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ravee\\source\\repos\\Haseeb Project\\Inventory Management ConsoleAPP\\Inventory Management ConsoleAPP\\Inventory Management ConsoleAPP.csproj": {
+    "C:\\Users\\ravee\\OneDrive - Abacus\\Desktop\\haseeb\\Repos\\Inventory-Management\\Inventory Management ConsoleAPP\\Inventory Management ConsoleAPP\\Inventory Management ConsoleAPP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ravee\\source\\repos\\Haseeb Project\\Inventory Management ConsoleAPP\\Inventory Management ConsoleAPP\\Inventory Management ConsoleAPP.csproj",
+        "projectUniqueName": "C:\\Users\\ravee\\OneDrive - Abacus\\Desktop\\haseeb\\Repos\\Inventory-Management\\Inventory Management ConsoleAPP\\Inventory Management ConsoleAPP\\Inventory Management ConsoleAPP.csproj",
         "projectName": "Inventory Management ConsoleAPP",
-        "projectPath": "C:\\Users\\ravee\\source\\repos\\Haseeb Project\\Inventory Management ConsoleAPP\\Inventory Management ConsoleAPP\\Inventory Management ConsoleAPP.csproj",
+        "projectPath": "C:\\Users\\ravee\\OneDrive - Abacus\\Desktop\\haseeb\\Repos\\Inventory-Management\\Inventory Management ConsoleAPP\\Inventory Management ConsoleAPP\\Inventory Management ConsoleAPP.csproj",
         "packagesPath": "C:\\Users\\ravee\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ravee\\source\\repos\\Haseeb Project\\Inventory Management ConsoleAPP\\Inventory Management ConsoleAPP\\obj\\",
+        "outputPath": "C:\\Users\\ravee\\OneDrive - Abacus\\Desktop\\haseeb\\Repos\\Inventory-Management\\Inventory Management ConsoleAPP\\Inventory Management ConsoleAPP\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
