@@ -4,11 +4,17 @@ namespace Inventory_Management_ConsoleAPP
 {
     class Inventory
     {
-        static void Main(string[] args)
-        {
-            int Apple = 10;
-            int Banana = 10;
+        private int Apple;
+        private int Banana;
 
+        public Inventory(int appleQuantity, int bananaQuantity)
+        {
+            Apple = appleQuantity;
+            Banana = bananaQuantity;
+        }
+
+        public void ManageInventory()
+        {
             while (true)
             {
                 Console.WriteLine("Inventory:");
@@ -16,7 +22,7 @@ namespace Inventory_Management_ConsoleAPP
                 Console.WriteLine($"2. Banana - {Banana}");
                 Console.WriteLine("Select An Item: (Press 1 for Apple) (Press 2 for Banana) (Press 0 for Exit)");
 
-                string input = Console.ReadLine();
+                string input = Console.ReadLine()?.ToLower();
 
                 if (input == "0")
                 {
@@ -24,9 +30,17 @@ namespace Inventory_Management_ConsoleAPP
                     break;
                 }
 
-                int selectedItem;
+                int selectedItem = 0;
 
-                if (!int.TryParse(input, out selectedItem) || (selectedItem != 1 && selectedItem != 2))
+                if (input == "1" || input == "apple")
+                {
+                    selectedItem = 1;
+                }
+                else if (input == "2" || input == "banana")
+                {
+                    selectedItem = 2;
+                }
+                else
                 {
                     Console.WriteLine("Invalid selection. Please try again.");
                     continue;
@@ -77,6 +91,14 @@ namespace Inventory_Management_ConsoleAPP
                     }
                 }
             }
+        }
+
+        static void Main(string[] args)
+        {
+
+            Inventory inventory = new Inventory(appleQuantity: 10, bananaQuantity: 10);
+
+            inventory.ManageInventory();
         }
     }
 }
