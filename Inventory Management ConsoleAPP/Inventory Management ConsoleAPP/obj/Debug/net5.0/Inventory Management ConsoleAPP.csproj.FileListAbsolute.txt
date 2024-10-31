@@ -14,3 +14,19 @@ C:\Users\ravee\source\repos\Haseeb Project\Inventory Management ConsoleAPP\Inven
 C:\Users\ravee\source\repos\Haseeb Project\Inventory Management ConsoleAPP\Inventory Management ConsoleAPP\obj\Debug\net5.0\ref\Inventory Management ConsoleAPP.dll
 C:\Users\ravee\source\repos\Haseeb Project\Inventory Management ConsoleAPP\Inventory Management ConsoleAPP\obj\Debug\net5.0\Inventory Management ConsoleAPP.pdb
 C:\Users\ravee\source\repos\Haseeb Project\Inventory Management ConsoleAPP\Inventory Management ConsoleAPP\obj\Debug\net5.0\Inventory Management ConsoleAPP.genruntimeconfig.cache
+C:\Users\ravee\OneDrive - Abacus\Desktop\haseeb\Repos\Inventory-Management\Inventory Management ConsoleAPP\Inventory Management ConsoleAPP\bin\Debug\net5.0\Inventory Management ConsoleAPP.exe
+C:\Users\ravee\OneDrive - Abacus\Desktop\haseeb\Repos\Inventory-Management\Inventory Management ConsoleAPP\Inventory Management ConsoleAPP\bin\Debug\net5.0\Inventory Management ConsoleAPP.deps.json
+C:\Users\ravee\OneDrive - Abacus\Desktop\haseeb\Repos\Inventory-Management\Inventory Management ConsoleAPP\Inventory Management ConsoleAPP\bin\Debug\net5.0\Inventory Management ConsoleAPP.runtimeconfig.json
+C:\Users\ravee\OneDrive - Abacus\Desktop\haseeb\Repos\Inventory-Management\Inventory Management ConsoleAPP\Inventory Management ConsoleAPP\bin\Debug\net5.0\Inventory Management ConsoleAPP.runtimeconfig.dev.json
+C:\Users\ravee\OneDrive - Abacus\Desktop\haseeb\Repos\Inventory-Management\Inventory Management ConsoleAPP\Inventory Management ConsoleAPP\bin\Debug\net5.0\Inventory Management ConsoleAPP.dll
+C:\Users\ravee\OneDrive - Abacus\Desktop\haseeb\Repos\Inventory-Management\Inventory Management ConsoleAPP\Inventory Management ConsoleAPP\bin\Debug\net5.0\ref\Inventory Management ConsoleAPP.dll
+C:\Users\ravee\OneDrive - Abacus\Desktop\haseeb\Repos\Inventory-Management\Inventory Management ConsoleAPP\Inventory Management ConsoleAPP\bin\Debug\net5.0\Inventory Management ConsoleAPP.pdb
+C:\Users\ravee\OneDrive - Abacus\Desktop\haseeb\Repos\Inventory-Management\Inventory Management ConsoleAPP\Inventory Management ConsoleAPP\obj\Debug\net5.0\Inventory Management ConsoleAPP.csproj.AssemblyReference.cache
+C:\Users\ravee\OneDrive - Abacus\Desktop\haseeb\Repos\Inventory-Management\Inventory Management ConsoleAPP\Inventory Management ConsoleAPP\obj\Debug\net5.0\Inventory Management ConsoleAPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ravee\OneDrive - Abacus\Desktop\haseeb\Repos\Inventory-Management\Inventory Management ConsoleAPP\Inventory Management ConsoleAPP\obj\Debug\net5.0\Inventory Management ConsoleAPP.AssemblyInfoInputs.cache
+C:\Users\ravee\OneDrive - Abacus\Desktop\haseeb\Repos\Inventory-Management\Inventory Management ConsoleAPP\Inventory Management ConsoleAPP\obj\Debug\net5.0\Inventory Management ConsoleAPP.AssemblyInfo.cs
+C:\Users\ravee\OneDrive - Abacus\Desktop\haseeb\Repos\Inventory-Management\Inventory Management ConsoleAPP\Inventory Management ConsoleAPP\obj\Debug\net5.0\Inventory Management ConsoleAPP.csproj.CoreCompileInputs.cache
+C:\Users\ravee\OneDrive - Abacus\Desktop\haseeb\Repos\Inventory-Management\Inventory Management ConsoleAPP\Inventory Management ConsoleAPP\obj\Debug\net5.0\Inventory Management ConsoleAPP.dll
+C:\Users\ravee\OneDrive - Abacus\Desktop\haseeb\Repos\Inventory-Management\Inventory Management ConsoleAPP\Inventory Management ConsoleAPP\obj\Debug\net5.0\ref\Inventory Management ConsoleAPP.dll
+C:\Users\ravee\OneDrive - Abacus\Desktop\haseeb\Repos\Inventory-Management\Inventory Management ConsoleAPP\Inventory Management ConsoleAPP\obj\Debug\net5.0\Inventory Management ConsoleAPP.pdb
+C:\Users\ravee\OneDrive - Abacus\Desktop\haseeb\Repos\Inventory-Management\Inventory Management ConsoleAPP\Inventory Management ConsoleAPP\obj\Debug\net5.0\Inventory Management ConsoleAPP.genruntimeconfig.cache

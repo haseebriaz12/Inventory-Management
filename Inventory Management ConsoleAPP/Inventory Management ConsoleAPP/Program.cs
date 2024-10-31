@@ -32,6 +32,7 @@ namespace Inventory_Management_ConsoleAPP
                     continue;
                 }
 
+
                 Console.WriteLine("Enter Quantity:");
                 string quantityInput = Console.ReadLine();
                 int quantity;
@@ -41,7 +42,7 @@ namespace Inventory_Management_ConsoleAPP
                     Console.WriteLine("Invalid quantity. Please enter a positive number.");
                     continue;
                 }
-
+                
                 if (selectedItem == 1)
                 {
                     if (quantity > Apple)
